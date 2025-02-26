@@ -8,8 +8,8 @@ from concurrent.futures import ThreadPoolExecutor
 import uuid
 
 # Set API keys
-ELEVEN_LABS_API_KEY = "sk_d10e88cab4f2e89d76dcf144d6c86192782b3f14e94b6f4c"
-ASSEMBLY_AI_API_KEY = "6641b369b7bd4d8eb72d58d4631ab1e3"
+ELEVEN_LABS_API_KEY = "enterelabsapikeyhere"
+ASSEMBLY_AI_API_KEY = "enteraaiapikeyhere"
 
 # Ensure API keys are not None
 if not ELEVEN_LABS_API_KEY or not ASSEMBLY_AI_API_KEY:
